@@ -1,0 +1,23 @@
+class Moni{
+	public static void main(String[] args){
+		System.out.println("Monisha");
+		System.out.println("D R");
+		System.out.println("Ramegowda");
+		System.out.println("kolar");
+		System.out.println("VSIS");
+		System.out.println("infomatics");
+		System.out.println("BE");
+		System.out.println("sir mvit");
+		System.out.println("ece");
+		System.out.println("final year");
+		System.out.println("reading books");
+		System.out.println("listening music");
+		System.out.println("ragi");
+		System.out.println("mango producer");
+		System.out.println("seasonal vegetables");
+		System.out.println("antara gange");
+		System.out.println("kurudumale");
+		System.out.println("bangaru tirupati");
+		System.out.println("budikote dam");
+	}
+}
